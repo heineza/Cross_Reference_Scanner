@@ -1,0 +1,69 @@
+Ident      Line Numbers
+Aborting   81
+Cannot     80
+Finding    54
+Function   18 19
+Loading    46
+N          37 39
+Please     39
+RAM        46
+The        113 116
+__int      19 34
+a          113
+adj        24
+adjacency  31
+adjacent   37 54
+at         37
+cout       36
+dctnryWords 73
+dict       20 21
+dictionary 28 113
+distr      21 22 23
+distribution 30 113
+elapsed    34
+enter      39
+f          19
+file       80
+finalAdjWords 23
+following  113
+fstream    10
+getAdjacentWords 23
+getNumWordLengths 21
+greatWordSize 32
+h          14
+has        113
+have       37
+ifstream   20 33
+in         20
+include    9 10 11 12 13 14
+infile     33
+into       46
+iostream   9
+iterator   29
+itr        29
+least      37
+length     116
+lengths    113
+main       26
+map        13 21 22 23 24 30 31
+maxWordSize 21 23
+numAdj     24
+numAdjacent 35
+number     116
+of         113 116
+only       113
+open       80
+printAdjacencies 24
+printDistribution 22
+readInputIntoSet 20
+set        12 20 21 22 23 24 28 29 30 31
+size_t     21 22 23 30 32
+std        16
+string     11 20 21 22 23 24 28 29 30 31
+that       37
+time_call  19
+took       46 54
+txt        73
+windows    14
+word       113
+words      37 46 54 113 116

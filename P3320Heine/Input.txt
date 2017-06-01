@@ -1,0 +1,9 @@
+/*1*/ #include <iostream> 
+/*2*/ using namespace std; 
+/*3*/ int main() 
+/*4*/{ 
+/*5*/ int x, y; 
+/*6*/ cin >> x >> y; 
+/*7*/ cout << x + y << endl; 
+/*8*/ return 0; 
+/*9*/}
